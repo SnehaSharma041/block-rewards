@@ -1,5 +1,8 @@
 # RewardToken Contract
 
+![image](https://github.com/user-attachments/assets/a34f7277-cb1a-4675-a81b-94aca8ad0928)
+
+
 ## Vision
 
 The **RewardToken** contract is a simple ERC-20 token implementation designed to facilitate the distribution and management of reward tokens. This contract enables the creation, transfer, and minting of tokens, and includes basic functionalities for balance tracking and allowance management. It serves as a foundation for applications requiring a reward mechanism or token-based incentives.
