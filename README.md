@@ -72,7 +72,7 @@ Ensure you have the following installed:
 
 First, clone the repository to your local machine:
 
-git clone https://github.com/yourusername/BlockchainAcademy.git<br/>
+git clone https://github.com/SnehaSharma041/block-rewards.git<br/>
 cd BlockchainAcademy
 
 ### Install Dependencies
