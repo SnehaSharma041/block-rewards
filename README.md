@@ -80,6 +80,10 @@ Navigate to the project directory and install the necessary Node.js packages:<br
 npm install<br/>
 This will install all dependencies listed in the package.json file.
 
+
+****Contract Address****: 0x29BAf819e5f25Ad6f92A8570d27a1A736a600770
+
+
 ### Contact Details
 
 For any questions, feedback, or contributions related to the Blockchain Academy project, please reach out to the project team using the contact information below:
