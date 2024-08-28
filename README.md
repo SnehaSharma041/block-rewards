@@ -84,7 +84,7 @@ npm install<br/>
 This will install all dependencies listed in the package.json file.
 
 
-****Contract Address****: 0x29BAf819e5f25Ad6f92A8570d27a1A736a600770
+****Contract Address****: 0x0762B638d4440b7F5C5cdbB139665967B01925Cf
 
 
 ### Contact Details
